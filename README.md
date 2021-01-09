@@ -91,7 +91,7 @@ The /train and /test folders provide the data to be analyzed.  Each row in the f
         
 4. Execution is complete. The cleaned data is stored in the "tidydata" dataframe.
 
-![Example output from _run_analysis.R_](https://github.com/jlranaliticas/Getting_and_Cleaning_Data_Project/issues/3#issue-782641622)
+![tidydata_output](https://user-images.githubusercontent.com/75954319/104103264-21fcdf80-526f-11eb-9ee7-d8be6a0d7ea6.png)
         
 
 ### HOW THE PROGRAM WORKS  
