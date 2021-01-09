@@ -1,12 +1,5 @@
----
-title: 'README: Course_Project-Getting_and_Cleaning_Data'
-author: "JLR"
-date: "1/7/2021"
-output:
-  html_document:
-    df_print: paged
-  pdf_document: default
----
+##  README for Getting and Cleaning Data Project Course
+Part of the Johns Hopkins University Data Science Specialization offered through Coursera
 
 ### OVERVIEW
 This document describes background and operating instructions for the _'run_analysis()'_ R function which prepares a tidy dataset of inertial sensing data for further analysis. 
